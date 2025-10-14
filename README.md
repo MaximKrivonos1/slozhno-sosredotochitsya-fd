@@ -1,1 +1,1 @@
-https://github.com/MaximKrivonos1/slozhno-sosredotochitsya-fd
+https://github.com/MaximKrivonos1/slozhno-sosredotochitsya-fdgit config --global --list
