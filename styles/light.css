@@ -12,28 +12,28 @@
   --bg-image: url("../images/cover-image-light.png");
   --bg-color: #ffeef6;
   --accent-color: #ff8dcb;
-  --button-color:#353430;
+  --button-color: #353430;
   --section-text-color: #353430;
-  --rec-color:#ffeef6;
-  --decor-color:#353430;
+  --rec-color: #ffeef6;
+  --decor-color: #353430;
   --title-color: #ffc2e6;
   --border-color: 35, 34, 30;
-  --text-title-color:#353430;
-  --section-title_color:#353430;
+  --text-title-color: #353430;
+  --section-title_color: #353430;
 }
 
 @media (prefers-color-scheme: light) {
-  :root{
-  --bg-image: url("../images/cover-image-light.png");
-  --bg-color: #ffeef6;
-  --accent-color: #ff8dcb;
-  --button-color:#353430;
-  --section-text-color: #353430;
-  --rec-color:#ffeef6;
-  --decor-color:#353430;
-  --title-color: #ffc2e6;
-  --border-color: 35, 34, 30;
-  --text-title-color:#353430;
-  --section-title_color:#353430;
+  :root {
+    --bg-image: url("../images/cover-image-light.png");
+    --bg-color: #ffeef6;
+    --accent-color: #ff8dcb;
+    --button-color: #353430;
+    --section-text-color: #353430;
+    --rec-color: #ffeef6;
+    --decor-color: #353430;
+    --title-color: #ffc2e6;
+    --border-color: 35, 34, 30;
+    --text-title-color: #353430;
+    --section-title_color: #353430;
   }
 }
