@@ -396,7 +396,6 @@
   }
 
   .section-gallery__gallery {
-    grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1fr 1.212fr 1.67fr;
     gap: 20px;
   }
